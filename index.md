@@ -1,4 +1,4 @@
-## Hola, Soy Mariano  🖐
+
 ### Gacias por visitar mi sitio profesional
 ### Les cuento de mis experiencias como Software QA Engineer.
 
