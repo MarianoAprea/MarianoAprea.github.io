@@ -1,11 +1,13 @@
-theme: minima
+#theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+plugins: - jekyll-remote-theme # add this line to the plugins list if you already have one
 # Your site's settings
-lang: en-US # e.g. uk, pl, en-US
-bg_color: dark # can be dark, light or auto
+#lang: en-US # e.g. uk, pl, en-US
+bg_color: green # can be dark, light or auto
 # theme-color is the main accent color and can be red, pink, fuchsia, purple, violet, indigo, blue, azure, cyan, jade, green,
 # lime, yellow, amber, pumpkin, orange, sand, grey, zinc, slate. See samples on https://picocss.com/docs/version-picker
-theme_color: azure
-title: Quick
+heme_color: green
+title: MARIANO APREA Software QA Engineer
 description: Quick. The fastest and easiest way to make a GitHub Pages website for your project.
 keywords: github pages, github readme, github pages theme, jekyll theme, landing page
 gtag: G-X7HSHVZDZT # Google Analytics tag (e.g. G-A1BCDEFGHI). Please replace it with YOUR tag.
@@ -14,11 +16,4 @@ gtag: G-X7HSHVZDZT # Google Analytics tag (e.g. G-A1BCDEFGHI). Please replace it
 # there's no need to copy the options listed below.
 # This is a service section, it's probably best not to make changes here
 # unless you're confident in what you're doing.
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-plugins:
-  - jekyll-optional-front-matter
+
