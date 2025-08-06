@@ -1,21 +1,15 @@
 ---
 layout: default
 ---
-## Hola, Soy Mariano  
+## Hola, Soy Mariano  🖐
 ### Gacias por visitar mi sitio profesional
 ### Les cuento de mis experiencias como Software QA Engineer.
-
-  
-  
-[Link paginas](./otraPagina.md). 
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*   [QA en equipos](./otraPagina.md). 
+*   [Metodologias](./otraPagina.md).
+*   [Decisiones](./otraPagina.md).
+*   [QA Manual Tests](./otraPagina.md).
+*   [QA Automation Tests](./otraPagina.md).
+*   [QA y IA](./otraPagina.md).
 
 ## Header 2
 
@@ -40,11 +34,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
 ##### Header 5
 
@@ -145,5 +135,5 @@ end
 
 
 ```
-The final element.
+Mariano Aprea. 
 ```
