@@ -2,8 +2,8 @@
 ### Gacias por visitar mi sitio profesional
 ### Les cuento de mis experiencias como Software QA Engineer.
 *   [QA en equipos](./otraPagina.md). 
-*   [Metodologias](./otraPagina.md).
-*   [Decisiones](./otraPagina.md).
+*   [Metodologias](./metodologias.md).
+*   [Decisiones](./decisiones.md).
 *   [QA Manual Tests](./otraPagina.md).
 *   [QA Automation Tests](./otraPagina.md).
 *   [QA y IA](./otraPagina.md).
