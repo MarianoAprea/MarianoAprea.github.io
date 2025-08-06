@@ -4,9 +4,9 @@
 *   [QA en equipos](./otraPagina.md). 
 *   [Metodologias](./metodologias.md).
 *   [Decisiones](./decisiones.md).
-*   [QA Manual Tests](./otraPagina.md).
-*   [QA Automation Tests](./otraPagina.md).
-*   [QA y IA](./otraPagina.md).
+*   [QA Manual Tests](./manualtest.md).
+*   [QA Automation Tests](./automationtests.md).
+*   [QA y IA](./qayia.md).
 
 ## Header 2
 
