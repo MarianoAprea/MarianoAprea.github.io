@@ -1,7 +1,7 @@
 ---
-layout: jekyll-theme-hacker
-title: Another page
-description: This is just another page
+layout: architect
+title: QA en equipos
+description: Realizar QA en equipos diferentes.
 ---
 
 ## Welcome to another page
