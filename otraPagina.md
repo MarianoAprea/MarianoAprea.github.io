@@ -1,5 +1,5 @@
 ---
-layout: architect
+layout: jekyll-theme-architect
 title: QA en equipos
 description: Realizar QA en equipos diferentes.
 ---
