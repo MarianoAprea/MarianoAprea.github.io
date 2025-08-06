@@ -1,11 +1,17 @@
 ## Hola, Soy Mariano  🖐
 ### Gacias por visitar mi sitio profesional
 ### Les cuento de mis experiencias como Software QA Engineer.
-*   [QA en equipos](./otraPagina.md). 
+
+*   [QA en equipos](./otraPagina.md).
+  
 *   [Metodologias](./metodologias.md).
+  
 *   [Decisiones](./decisiones.md).
+  
 *   [QA Manual Tests](./manualtest.md).
+  
 *   [QA Automation Tests](./automationtests.md).
+  
 *   [QA y IA](./qayia.md).
 
 ## Header 2
