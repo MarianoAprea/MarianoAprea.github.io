@@ -1,8 +1,7 @@
-
 ### Gacias por visitar mi sitio profesional
 ### Les cuento de mis experiencias como Software QA Engineer.
 
-*   [QA en equipos](./otraPagina.md).
+*   [QA en equipos](./qaenequpos.md).
   
 *   [Metodologias](./metodologias.md).
   
