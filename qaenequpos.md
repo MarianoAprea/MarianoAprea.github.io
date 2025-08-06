@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## QA en diferentes equipos, roles y proyectos : 
 ### Tech Stack:
 <div align="left">
