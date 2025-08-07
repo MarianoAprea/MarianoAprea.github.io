@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## QA en diferentes equipos, roles y proyectos : 
+## QA en diferentes equipos y proyectos: 
 ### Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -14,9 +14,9 @@ layout: default
 
 
 ## Equipos Scrum/Agile
-###Para los equipos scrum QA es una parte más en ciclo de desarrollo, generando la estrategia correctas según el proyecto.
 
-###En mi carrera profesional he participado de proyectos de variada composición.
+Para los equipos scrum QA es una parte más en ciclo de desarrollo, generando la estrategia correctas según el proyecto.
+En mi carrera profesional he participado de proyectos de variada composición.
 
 
  [Home](./index.md).
