@@ -1,7 +1,5 @@
-### Equipos, mirada inicial:
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5ba061e5-9606-43eb-abc6-e79ad4e49c3a" />
-
-QA es una parte más en ciclo de desarrollo, generando la estrategia correcta según el proyecto.
+### Equipos, mirada inicial: 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8327e42e-444c-409e-8361-c653a4bb7898" /> QA es una parte más en ciclo de desarrollo, generando la estrategia correcta según el proyecto.
 Podemos encontrar equipos con varios perfiles segun el negocio (PO, Devs, BA, UX, etc) y tambien encontrar equipos más chicos donde de acuerdo al proyecto no participan otros roles ni tampoco el perfil de QA. 
 
 Desde mi experiencia y cada vez que he participado en equipos de desarrollo de soft, inicialmente lo primordial ha sido evaluar como se realiza el flujo de trabajo. De acuerdo a esta mirada poder plantear otras preguntas iniciales básicas como: 
@@ -18,19 +16,5 @@ Desde mi experiencia y cada vez que he participado en equipos de desarrollo de s
 
  [Home](./index.md).
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
 
 
