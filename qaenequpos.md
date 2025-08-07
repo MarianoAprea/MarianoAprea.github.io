@@ -1,5 +1,6 @@
 ## QA en diferentes equipos y proyectos: 
 ### Equipos Scrum - Agile
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5ba061e5-9606-43eb-abc6-e79ad4e49c3a" />
 
 >  QA es una parte más en ciclo de desarrollo, generando la estrategia correcta según el proyecto.
 Podemos encontrar equipos con varios perfiles segun el negocio (PO, Devs, BA, UX, etc) y tambien encontrar equipos más chicos donde de acuerdo al proyecto no participan otros roles ni tampoco el perfil de QA. 
