@@ -1,5 +1,4 @@
-## QA en diferentes equipos y proyectos: 
-### Equipos Scrum - Agile
+### Equipos, mirada inicial:
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5ba061e5-9606-43eb-abc6-e79ad4e49c3a" />
 
 QA es una parte más en ciclo de desarrollo, generando la estrategia correcta según el proyecto.
@@ -14,6 +13,7 @@ Desde mi experiencia y cada vez que he participado en equipos de desarrollo de s
 *   ¿Cuales herramientas de tracking adoptará el equipo?
 *   ¿existe la posibilidad de automatizar flujos?
 
+> De ésta manera en todos los proyectos en los que he participado pude armar un mapa de la situacion inicial para ganar "productividad" sobre todo en proyectos donde el cliente exige "entregas de valor". 
 
 
  [Home](./index.md).
