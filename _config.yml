@@ -2,6 +2,6 @@ title: Mariano Aprea
 description: Un poco de lo que hago como Software QA Engineer.
 show_downloads: false
 google_analytics:
-remote_theme: mmistakes/minimal-mistakes@4.27.3
+jekyll-remote-theme: mmistakes/minimal-mistakes@4.27.3
 
 
