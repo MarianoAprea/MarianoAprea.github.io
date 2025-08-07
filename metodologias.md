@@ -1,6 +1,6 @@
 ## Metodologias segun equipos: 
 ### Tech Stack:
-<div align="left"width="50" height="50">
+<div align="left">
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/83726a88-7e08-49fa-8f5e-27521459da45" />
    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3494ee05-bac1-46ad-b1f5-cc55854755cc" />
    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/05a3c351-9559-42e7-8ff5-1deb94b26f8b" />
