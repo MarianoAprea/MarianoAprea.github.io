@@ -9,23 +9,15 @@ layout: default
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
 
 </div>
 
 
 ## Equipos Scrum/Agile
+###Para los equipos scrum QA es una parte más en ciclo de desarrollo, generando la estrategia correctas según el proyecto.
 
-> Estos equipos ......
->
-> When something is important enough, you do it even if the odds are not in your favor.
+###En mi carrera profesional he participado de proyectos de variada composición.
 
-## Equipos Cascada
-
-> Estos equipos Tradicionales...
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
  [Home](./index.md).
 
@@ -34,5 +26,6 @@ layout: default
 
 
 ```
-Mariano Aprea. 
+Mariano Aprea.
+
 ```
