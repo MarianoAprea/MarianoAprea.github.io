@@ -1,31 +1,19 @@
----
-layout: default
----
 ## QA en diferentes equipos y proyectos: 
-### Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
+### Equipos Scrum - Agile
 
-</div>
+>  QA es una parte más en ciclo de desarrollo, generando la estrategia correcta según el proyecto.
+Podemos encontrar equipos con varios perfiles segun el negocio (PO, Devs, BA, UX, etc) y tambien encontrar equipos más chicos donde de acuerdo al proyecto no participan otros roles ni tampoco el perfil de QA. 
 
+Desde mi experiencia y cada vez que he participado en equipos de desarrollo de soft, lo principal inicialmente ha sido evaluar como se realiza el flujo de trabajo. De acuerdo a esta mirada poder plantear otras preguntas iniciales: 
 
-## Equipos Scrum/Agile
+.Con que metodologia se trabajará? (sprints, cascada, Kanban)
+.Que perfiles participaran en el equipo?
+.Que ambientes estaran disponibles? (Test, UAT, PreProd.)
+.Donde y como se obtendran los datos de prueba? (BB.DD, files, recursos)
+.
 
-Para los equipos scrum QA es una parte más en ciclo de desarrollo, generando la estrategia correctas según el proyecto.
-En mi carrera profesional he participado de proyectos de variada composición.
 
 
  [Home](./index.md).
 
 
-
-
-
-```
-Mariano Aprea.
-
-```
