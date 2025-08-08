@@ -41,23 +41,7 @@
   <img width="12" />
 </div>
 
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Gracias por visitar! 
+Mariano.
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-.Mariano
